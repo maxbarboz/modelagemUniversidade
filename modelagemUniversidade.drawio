@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-15T17:22:50.377Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="70jxuKLOErMBaDo-E5DB" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-15T17:29:25.469Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="b8y2rhCvOCbcAQS5gb9f" version="13.6.2" type="github">
   <diagram name="Page-1" id="a7904f86-f2b4-8e86-fa97-74104820619b">
     <mxGraphModel dx="2652" dy="1719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#DAD2D8" math="0" shadow="0">
       <root>
@@ -18,6 +18,15 @@
         </mxCell>
         <mxCell id="S_LcXsX2VpYM0Fpv0HbS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERone;endFill=0;fillColor=#f8cecc;strokeColor=#A8201A;" edge="1" parent="1" source="24794b860abc3c2d-17" target="S_LcXsX2VpYM0Fpv0HbS-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_LcXsX2VpYM0Fpv0HbS-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERone;endFill=0;strokeColor=#A8201A;" edge="1" parent="1" source="24794b860abc3c2d-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-90" y="190" />
+              <mxPoint x="-90" y="270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="24794b860abc3c2d-17" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;PROFESSOR&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;ID_PROFESSOR - &lt;font color=&quot;#0066cc&quot;&gt;INT&lt;/font&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;-&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;font color=&quot;#ff0808&quot;&gt;PK&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;ID_CURSO -&amp;nbsp;&lt;font color=&quot;#0066cc&quot;&gt;INT&amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#ff0808&quot;&gt;- FK&lt;/font&gt;&lt;font color=&quot;#ff0808&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;ID_PESSOA - &lt;font color=&quot;#0066cc&quot;&gt;INT &lt;/font&gt;&lt;font color=&quot;#ff0808&quot;&gt;- FK&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;SALARIO - &lt;font color=&quot;#0066cc&quot;&gt;DOUBLE&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;LOCAL_RESIDENCIA - &lt;font color=&quot;#0066cc&quot;&gt;LONGTEXT&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;AREA_ATUACAO - &lt;font color=&quot;#0066cc&quot;&gt;VARCHAR&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;TEMPO_CONTRATO - &lt;font color=&quot;#0066cc&quot;&gt;INT&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="27.25" y="160" width="215.5" height="140" as="geometry" />
@@ -159,6 +168,15 @@
         </mxCell>
         <mxCell id="S_LcXsX2VpYM0Fpv0HbS-33" value="1&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22N%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontColor%3D%23143642%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-70%22%20width%3D%2240%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="398" y="144" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S_LcXsX2VpYM0Fpv0HbS-43" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="190.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S_LcXsX2VpYM0Fpv0HbS-44" value="0...*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="-12.75" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S_LcXsX2VpYM0Fpv0HbS-45" value="coordenam" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="220" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
